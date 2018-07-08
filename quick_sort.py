@@ -6,8 +6,6 @@
 '''
 通过重点地方保证队列中有一个空余的位置，使换位成为可能
 '''
-import numpy as np
-
 
 def quicksort(ary, low, hight):
     left = low

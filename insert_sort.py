@@ -6,8 +6,6 @@
 '''
 插入排序是一个稳定的排序，时间复杂度为n^2~n
 '''
-import numpy as np
-
 def insertsort(ary):
     for i in range(1,len(ary)):
         j = i-1
