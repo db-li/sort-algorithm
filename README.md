@@ -1,3 +1,3 @@
 # sort-algorithm
 
-There are something wrong with the heap_sort.
+This a sort algorithm (includeing bubble-sort, heqp-sort, insert-sort, quick-sort) implemented with python.

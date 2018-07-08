@@ -1,4 +1,8 @@
 #-*- coding:utf-8 -*-
+"""
+@Time: 2018-06-09
+@Author: dbli
+"""
 '''
 冒泡排序是一个稳定排序，时间复杂度最高
 '''
@@ -16,6 +20,6 @@ def bubblesort(ary):
     return ary
 
 if __name__=="__main__":
-    num_list = [9,3,4,2,6,7,51]
+    num_list = [67,23,89,35,28,90,10,24]
     new_list = bubblesort(num_list)
     print(new_list)
